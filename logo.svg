@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 84" role="img" aria-labelledby="title desc">
+<title id="title">Sparkform logo</title><desc id="desc">Four-point growth star with an orbit dot</desc>
+<rect x="2" y="2" width="80" height="80" rx="24" fill="#172A29"/>
+<path d="M41 14c2.8 14.8 10.4 22.5 26 25-15.6 2.5-23.2 10.2-26 26-2.8-15.8-10.4-23.5-26-26 15.6-2.5 23.2-10.2 26-25z" fill="#BEF4D5"/>
+<circle cx="65.5" cy="18.5" r="6.5" fill="#FFBF98"/>
+<circle cx="19" cy="68" r="4" fill="#F3ECCF"/>
+</svg>

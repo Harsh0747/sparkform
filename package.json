@@ -1,0 +1,15 @@
+{
+  "name": "sparkform-ai-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-native 0-to-1 storefront generator for Indian creators",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "dev": "node --env-file-if-exists=.env --watch server.js",
+    "test": "node --test",
+    "check": "node --check server.js && node --check public/app.js && node --check public/storefront.js && node --test"
+  },
+  "license": "UNLICENSED"
+}
